@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "寄り道",
   "base_artist": "映秀。",
-  "createdAt": "2026-03-19T12:26:38.467299Z",
+  "createdAt": "2026-03-30T00:04:34.777079Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -19,6 +19,15 @@
       "artist": "映秀。",
       "has_synced": false,
       "path": "select/localdb_01_寄り道_映秀。.txt",
+      "repo_name": "4UdF706ah9g"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "寄り道",
+      "artist": "映秀。",
+      "has_synced": false,
+      "path": "select/localdb_02_寄り道_映秀。.txt",
       "repo_name": "uT9lglbIc58"
     }
   ]
